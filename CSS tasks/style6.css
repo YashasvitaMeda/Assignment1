@@ -1,0 +1,63 @@
+body {
+    display: flex;
+    justify-content: center;
+  }
+  img {
+    margin-left: 90px;
+    margin-bottom: 2px;
+  }
+  p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 700;
+  }
+  input {
+    width: 98%;
+    font-size: medium;
+  }
+  button {
+    width: 100%;
+    background-color: #50c878;
+    margin-top: 10px;
+    height: 35px;
+    color: white;
+    border: 0;
+    border-radius: 2px;
+  }
+  .div1 {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: row;
+    background-color: darkgray;
+    width: 400px;
+  }
+  .btn1 {
+    margin-top: 6px;
+    margin-right: 200px;
+    margin-bottom: 6px;
+    width: 70px;
+    height: 30px;
+    border-radius: 4px;
+    border: 0;
+    float: left;
+    background-color: red;
+  }
+  label {
+    display: inline;
+  }
+  .div2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4px;
+  }
+  .in1 {
+    height: 13px;
+    margin-right: -186px;
+    margin-left: -191px;
+  }
+  a {
+    color: black;
+  }
+  .p1 {
+    font-weight: 100;
+  }

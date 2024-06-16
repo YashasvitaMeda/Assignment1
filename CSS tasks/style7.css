@@ -1,0 +1,78 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #af336a;
+    padding: 10px;
+  }
+  form {
+    padding-top: 50px;
+    background-color: #741331;
+    width: 700px;
+    height: 450px;
+  }
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    width: 100px;
+    margin-right: 10px;
+    text-align: right;
+    color: white;
+    padding-right: 150px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 5px;
+    margin-right: 200px;
+    width: 50px;
+  }
+  button {
+    width: 70%;
+    height: 30px;
+    margin-right: 200px;
+    margin-left: 261px;
+  }
+  
+  select {
+    flex: 1;
+    margin-right: 100px;
+  }
+  textarea {
+    margin-right: 100px;
+  }
+  .div1 {
+    flex: 1;
+    display: flex;
+    width: 10%;
+    flex-direction: row;
+    padding: 0;
+  }
+  .in1 {
+    margin-left: -21px;
+  }
+  .l1 {
+    margin-left: 3px;
+    padding-right: 20px;
+  }
+  .l2 {
+    margin-left: -187px;
+    padding-right: 20px;
+  }
+  .l3 {
+    margin-left: -187px;
+    padding-right: 20px;
+  }
+  label {
+    font-size: large;
+  }
+  textarea {
+    margin-left: 15px;
+  }
+  select {
+    height: 30px;
+  }

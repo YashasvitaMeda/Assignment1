@@ -1,0 +1,98 @@
+table {
+    border-style: solid;
+    border-radius: 10px;
+    background-color: aqua;
+    border-color: black;
+    width: 1000px;
+  }
+  td {
+    border-style: solid;
+    border-radius: 10px;
+    padding: 6px;
+  }
+  
+  th {
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .tbl {
+    width: auto;
+    background-color: white;
+    margin-top: 20px;
+    border: none;
+  }
+  .a {
+    border-style: solid;
+    border-color: green;
+    border-radius: 10px;
+    padding: 50px;
+  }
+  
+  .b {
+    border-style: solid;
+    border-color: green;
+    border-radius: 20px;
+    padding: 50px;
+  }
+  
+  .c {
+    border-style: solid;
+    border-color: green;
+    border-radius: 30px;
+    padding: 50px;
+    height: 25px;
+  }
+  
+  .d {
+    border-style: solid;
+    border-color: green;
+    border-radius: 5px;
+    padding: 50px;
+  }
+  
+  .e {
+    border-style: solid;
+    border-color: green;
+    padding: 50px;
+    border-radius: 0;
+  }
+  
+  .f {
+    border-style: solid;
+    border-color: green;
+    border-radius: 15px;
+    padding: 50px;
+    width: 50px;
+    height: 25px;
+  }
+  
+  .g {
+    border-style: solid;
+    border-color: green;
+    border-radius: 45px;
+    padding: 50px;
+    height: 25px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  .h {
+    border-style: solid;
+    border-color: green;
+    border-radius: 0px;
+    padding: 50px;
+    width: 50px;
+  }
+  
+  .i {
+    border-color: green;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 50px;
+  }
+  
